@@ -1,4 +1,4 @@
-# delivery-food-js-
+# delivery-food-js
 ## Using technology
 - HTML
 - CSS
