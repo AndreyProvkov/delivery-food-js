@@ -1,2 +1,5 @@
 # delivery-food-js-
-Learn project
+## Using technology
+- HTML
+- CSS
+- JS
